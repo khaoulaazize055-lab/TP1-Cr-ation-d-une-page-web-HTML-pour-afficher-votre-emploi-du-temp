@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang = "fr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name=" content=width=device-width, initial-scale=1.0">
+    <title>emploi_du temps</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        td, th {
+            border: 2px solid black;
+        }
+        .conteneur{
+            text-align: center;
+        }
+        .Analyse{
+            text-align: left;
+        }
+        .tr{
+           text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="conteneur">
+    <img src="C:\Users\hp\Desktop\pfe\fpo.jpg" width="300" height="100">
+</div>
+<div class="Analyse">
+    <img src="c:\Users\hp\Desktop\pfe\37b286a2-5ad6-4ce8-95a2-4654e633072a.jpeg" width="200" height=100>
+</div>
+<div style="text-align: right; padding-right: 20px;">
+    <p><b>Annee universitaire 2025 - 2026</b></p>
+</div>
+<h2 class="tr">emploi du temps « Provisoire » - IAIL-S2</h2>
+<table broder="1">
+<tr>
+    <td></td>
+    <td style="background-color: rgb(187, 197, 193);">9h - 10:30h</td>
+    <td style="background-color: rgb(187, 197, 193);">10:30h - 12h</td>
+    <td style="background-color: rgb(187, 197, 193);">12:15h - 13:45h</td>
+    <td style="background-color: rgb(187, 197, 193);">13:45h - 15:15h</td>
+    <td style="background-color: rgb(187, 197, 193);">15:30h - 17h</td>
+    <td style="background-color: rgb(187, 197, 193);">17h - 18:30h</td>
+</tr>
+
+<tr>
+    <th style="background-color: rgb(187, 197, 193);">Lundi</th>
+    <th>programmation Python 2 Prof M.Laraqui cours - Amphi A</th>
+    <th>Algorithme Et Programmation C 2 cours - Prof H.Oudani cours Amphi A</th>  
+    <th></th>
+    <th>Algorithme Et Programamation C 2 <p style="color:rgb(221, 59, 59);">Td/Tp Grp1 - salle P2</p> Prof H.Oudani</th>
+    <th>Programmation Python 2 <p style="color:rgb(221, 59, 59);">Td/Tp Grp3 - Salle</p> P2 Prof A.Elouardi</th>
+    <th>Programmation Python 2 <p style="color:rgb(221, 59, 59);">Td/Tp Grp2 - Salle P2</p> Prof A.Elouardi</th>
+</tr>
+
+<tr>    
+   <th style="background-color: rgb(187, 197, 193);">Mardi</th>
+   <th>Programmation Python 2 <p style="color:rgb(221, 59, 59);">Td/Tp Grp 1- Salle P2</p> Prof A.Elouardi</th>
+   <th></th>
+   <th>Digital Skills & Intelligence Artificielle cours - Amphi A Prof A.Elouardi</th>
+   <th>Digital Skills & Intelligence Artificielle<p style="color:rgb(221, 59, 59);"> Td/Tp</p> - Amphi A Prof A.Elouardi</th>
+   <th></th>
+   <th></th>
+</tr>
+
+<tr> 
+   <th style="background-color: rgb(187, 197, 193);">Mercredi</th>
+   <th></th>
+   <th></th>
+   <th></th>
+   <th>Algorithme Et Programmation C 2 <p style="color:rgb(221, 59, 59);">Td/Tp Grp 2 - Salle P2</p> Prof H.Oudani</th>
+   <th>Algébre 2 TD - Amphi A Prof B.Khaider</th>
+   <th>Analyse 2 TD - Amphi A Prof A.Hadri</th>
+</tr>
+
+<tr>
+    <th style="background-color: rgb(187, 197, 193);">Jeudi</th>
+    <th>Traitement du Signal cours - Amphi A Prof H.Azzahhafi</th>
+    <th>Traitement du Siqnal TD - Amphi A Prof H.Azzahhafi</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+</tr>
+
+<tr>
+    <th style="background-color: rgb(187, 197, 193);">vendredi</th>
+    <th>Algébre 2 cours - Amphi C Prof B.Khaider</th>
+    <th>Analyse 2 cours - Amphi C Prof A.Hadri</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+</tr>
+<tr>
+    <th style="background-color: rgb(187, 197, 193);">Samedi</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>Programmation Web 1<p style="color:rgb(221, 59, 59);">Td/Tp Grp2 - Salle P2</p> Prof.......</th>
+    <th>programmation web 1 cours - Salle P1 Prof K.Omari</th>
+    <th>Programmation web 1<p style="color:rgb(221, 59, 59);"> Td/Tp Grp1 - Salle P2</p> Prof K.Omari</th>
+</body>
+</table>
